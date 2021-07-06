@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="app_title">Konversi Suhu Celcius Ke Fahrenheit</string>
+    <string name="app_author">Oleh : Muhammad Tengku Rizky</string>
+    <string name="app_logo">Termometer logo</string>
+    <string name="app_author_picture">Termometer logo</string>
+    <string name="app_convert">Konversi Suhu</string>
+    <string name="app_profile">Profile</string>
+    <string name="app_exit">Keluar</string>
+    <string name="app_label_input">Masukkan Suhu Celcius</string>
+    <string name="app_label_result">Suhu Dalam Fahrenheit</string>
+    <string name="app_btn_convert">Konversikan</string>
+    <string name="app_celcius_hint">Masukkan angka celcius</string>
+    <string name="app_toast_celcius">Celcius Tidak Boleh Kosong !</string>
+    <string name="app_author_name">Muhammad Tengku Rizky</string>
+    <string name="app_nim">19101061</string>
+    <string name="app_about_me">Seorang pejuang coding yang tak kenal putus asa, setiap hari berada depan pacarnya yaitu Monitor (alias moni). Tengku adalah panggilannya, dia sekarang bekerja sebagai seorang freelancer, dimana dia mengambil proyek tersebut dari gurunya yang dia hormati yaitu Harold Sensei. Saat ini, status tengku dalam hal percintaan adalah Single, dia beranggapan bahwa belum saatnya dia untuk mencari pasangan.</string>
+</resources>
